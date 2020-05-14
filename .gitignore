@@ -1,5 +1,7 @@
-*/.settings/
-*/target/
-*/.classpath
-*/.project
-
+/.idea/
+/target/
+/*/target/
+/target/
+/*/target/
+/.mvn/
+/*/.mvn/
